@@ -1,3 +1,5 @@
 // Formatting, Linting
 // Formatting: Prettier
-console.log('Hello, world!')
+// Linting: ESLint
+
+exports = 3
